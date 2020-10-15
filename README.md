@@ -93,5 +93,5 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ## Getting Started
 
 For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
-<a href="https://flutter.io/">documentation</a?
+[documentation](https://flutter.io/).
+<a href="https://flutter.io/">documentation</a>
