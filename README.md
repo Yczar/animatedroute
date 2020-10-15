@@ -3,6 +3,58 @@
 
 [Flutter Package](https://github.com/Yczar/animatedroute)
 
+### Show some :heart: and star the repo to support the project
+
+## Screenshots
+
+<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
+
+## Usage
+
+[Example](https://github.com/Yczar/animatedroute/blob/main/example/example_app.dart)
+
+To use this package :
+
+* add the dependency to your [pubspec.yaml](https://github.com/Yczar/animatedroute/blob/main/pubspec.yaml) file.
+
+```yaml
+  dependencies:
+    flutter:
+      sdk: flutter
+    animatedroute:
+```
+
+### How to use
+
+```dart
+class ExampleApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.red,
+      body: Container(
+        child: Center(
+          child: RaisedButton(
+            onPressed: (){
+              Navigator.of(context).push(AnimatedRoute(widget: NextScreen(), curves: Curves.easeInOutCubic, alignment: Alignment.bottomCenter));
+            },
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class NextScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(),
+      backgroundColor: Colors.lightBlueAccent,
+    );
+  }
+}
+```
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
@@ -17,7 +69,9 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 ### Created & Maintained By
 
-[Babalola Ayotomide](https://github.com/yczar) ([@czarify](https://www.twitter.com/czarify)) ([Youtube](https://www.youtube.com/c/MTechViral))
+[Babalola Ayotomide](https://github.com/yczar)  
+([Twitter](https://www.twitter.com/czarify))  
+([Youtube](https://www.youtube.com/c/MTechViral))
 ([Insta](https://www.instagram.com/codepur_ka_superhero))
 
 # License

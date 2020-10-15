@@ -1,5 +1,5 @@
 name: animatedroute
-description: A new Flutter package.
+description: A flutter package that allows developers to animate their page route using flutter, works for both android and ios.
 version: 0.0.1
 author: Babalola Ayotomide <babalolagbogo@gmail.com>
 homepage: https://github.com/Yczar/animatedroute
