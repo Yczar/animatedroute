@@ -11,7 +11,7 @@
 
 ## Usage
 
-[Example](https://github.com/Yczar/animatedroute/blob/main/example/example_app.dart)
+[Example](https://github.com/Yczar/animatedroute/blob/master/example/main.dart)
 
 To use this package :
 
@@ -94,3 +94,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 
 For help getting started with Flutter, view our online
 [documentation](http://flutter.io/).
+<a href="https://flutter.io/">documentation</a?
