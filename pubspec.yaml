@@ -1,8 +1,8 @@
 name: animatedroute
 description: A new Flutter package.
 version: 0.0.1
-author: Babalola Ayotomide
-homepage:
+author: Babalola Ayotomide <babalolagbogo@gmail.com>
+homepage: https://github.com/Yczar/animatedroute
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
