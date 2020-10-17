@@ -7,7 +7,7 @@
 
 ## Screenshots
 
-<img src="illustration.gif" height="300em" /> <img src="ss2.png" height="300em" />
+<img src="illustration.gif"/> <img src="ss2.png" height="300em" />
 
 ## Usage
 
