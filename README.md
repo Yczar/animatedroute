@@ -5,7 +5,7 @@
 
 ### Show some :heart: and star the repo to support the project
 
-## Screenshots
+## Screen Record
 
 <img src="illustration.gif"/> <img src="ss2.png" height="300em" />
 
