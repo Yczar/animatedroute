@@ -3,11 +3,11 @@
 
 [Flutter Package](https://github.com/Yczar/animatedroute)
 
-### Show some :heart: and star the repo to support the project
+### Show some :thumbsup: and star the repo to support the project
 
 ## Screen Record
 
-<img src="illustration.gif"/> <img src="ss2.png" height="300em" />
+<img src="illustration.gif"/>
 
 ## Usage
 
