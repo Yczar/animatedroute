@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Tweet Savages',
+        title: 'Example App',
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
@@ -28,6 +28,7 @@ class ExampleApp extends StatelessWidget {
         child: Center(
           child: RaisedButton(
             onPressed: () {
+              //replace your material page route with AnimatedRoute
               Navigator.of(context).push(AnimatedRoute(
                   widget: NextScreen(),
                   curves: Curves.easeInOutCubic,

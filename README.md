@@ -3,7 +3,7 @@
 
 [Flutter Package](https://github.com/Yczar/animatedroute)
 
-### Show some :thumbsup: and star the repo to support the project
+### Show some :heart: and star the repo to support the project
 
 ## Screen Record
 
@@ -55,6 +55,11 @@ class NextScreen extends StatelessWidget {
   }
 }
 ```
+* widget: This is the screen/widget you would like to navigate to.
+* curves: This is the style of animation you would like to add to your route.
+* alignment: This is the exit and entry direction of your screen/widget
+* seconds: This is the duration of the animation. when null its equals to 1seconds.
+
 # Pull Requests
 
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
@@ -70,9 +75,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ### Created & Maintained By
 
 [Babalola Ayotomide](https://github.com/yczar)  
-([Twitter](https://www.twitter.com/czarify))  
-([Youtube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
+[Twitter](https://www.twitter.com/czarify)
 
 # License
 
@@ -93,5 +96,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ## Getting Started
 
 For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-<a href="https://flutter.io/">documentation</a>
+<a href="https://flutter.io/"> documentation.</a>

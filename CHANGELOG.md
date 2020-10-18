@@ -7,4 +7,13 @@
 ## [0.0.12] - October 2019.
 * Testing
 
+## [0.0.13] - October 2019.
+* Testing
+
+## [0.0.14] - October 2019.
+* Testing
+
+## [0.0.15] - October 2019.
+* Final Test
+
 

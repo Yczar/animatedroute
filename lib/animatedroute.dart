@@ -3,9 +3,13 @@ library animatedroute;
 import 'package:flutter/material.dart';
 
 class AnimatedRoute extends PageRouteBuilder {
+  /// This basically takes the Nextscreen you would like to navigate to
   final Widget widget;
+  /// This represent or takes the entry/exit curve of your animation
   final Curve curves;
+  /// This represent or takes in the direction of your animation
   final Alignment alignment;
+  /// This represent or takes in the duration of your animation
   Duration duration;
 
   AnimatedRoute(
